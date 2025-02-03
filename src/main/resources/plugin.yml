@@ -1,0 +1,15 @@
+name: Formula
+main: org.formula.base.extremeboot
+version: 1.0
+api-version: 1.16
+authors: [scythedealer]
+description: loglogloglogloglgodf0fd-f0d-92.
+commands:
+  formula:
+    description: Основная команда.
+    usage: /formula
+    permission: formula.admin
+permissions:
+  formula.admin:
+    description: Доступ к командам Formula
+    default: op

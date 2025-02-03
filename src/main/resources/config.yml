@@ -1,0 +1,5 @@
+debug: false
+kick-on-vpn: false
+kick-on-low-trust: false
+min-trust-score: 20
+check-cracked: true
